@@ -1,0 +1,19 @@
+# File di sistema Mac
+.DS_Store
+**/.DS_Store
+*.DS_Store
+
+# Ambienti virtuali
+.venv/
+venv/
+env/
+*.venv
+
+# Dati pesanti
+*.csv
+*.zip
+*.parquet
+
+# Cartelle di output/cache
+__pycache__/
+.ipynb_checkpoints/
