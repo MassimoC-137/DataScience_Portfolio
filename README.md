@@ -8,8 +8,8 @@ This repository features end-to-end projects ranging from tabular data competiti
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **[🫀 Heart Disease Prediction](./Heart-Disease-S6E2)** | Binary classification on 600k+ medical records. Features a **hardware-aware ensemble** (XGB/LGBM/CatBoost) that adapts to GPU/CPU environments. | `Python`, `Scikit-Learn`, `XGBoost`, `LightGBM`, `Plotly` | ✅ Completed |
-| **[🚢 Titanic Survival (Example)](./Titanic)** | *(Placeholder)* Classic binary classification problem analyzing passenger survival rates. | `Pandas`, `Seaborn`, `RandomForest` | 🚧 In Progress |
+| **[🫀 Predicting Heart Disease](./Kaggle/Predicting_Heart_Disease)** | Binary classification on 600k+ medical records. Features a **hardware-aware ensemble** (XGB/LGBM/CatBoost) that adapts to GPU/CPU environments. | `Python`, `Scikit-Learn`, `XGBoost`, `LightGBM`, `Plotly` | ✅ Completed |
+
 
 
 ## 🛠️ Skills & Tools
@@ -21,7 +21,7 @@ This repository features end-to-end projects ranging from tabular data competiti
 * **DevOps/Tools:** Git, Docker, Kaggle API, VS Code
 
 ## 📫 Contact
-* **LinkedIn:** [Massimo Caramanna](www.linkedin.com/in/massimo-caramanna-c137)
+* **LinkedIn:** [Massimo Caramanna](https://www.linkedin.com/in/massimo-caramanna-c137)
 * **Kaggle:** [massimocaramanna](https://www.kaggle.com/massimocaramanna)
 
 ---
