@@ -1,0 +1,21 @@
+# Core Data Science
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+plotly
+
+# Machine Learning
+scikit-learn
+xgboost
+lightgbm
+catboost
+shap 
+optuna 
+
+# Environment & Utilities
+kaggle
+jupyter
+ipykernel
+tqdm

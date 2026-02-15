@@ -17,3 +17,10 @@ env/
 # Cartelle di output/cache
 __pycache__/
 .ipynb_checkpoints/
+
+# File esplicativo e notebook di default
+Checklist_Definitiva.ipynb
+Default_Notebook.ipynb
+
+# Vecchie dipendenze
+requirements_backup_py313.txt
